@@ -2,6 +2,14 @@ Hello!
 
 My name is Justin Rawlings, Senior Data Analyst in the Transport Analytics team at WSP Australia.
 
+I specalise in the analysis, simulation, modelling, and optimisation of complex systems.  
+
+You can find me on the [Capability Database](https://auweb01.corp.pbwan.net/capabilities/)
+
+## Sectors
+- Freight Rail
+- Supply Chain
+
 ## Domains
 - Operations Research
 - Constraint Programming
@@ -9,6 +17,8 @@ My name is Justin Rawlings, Senior Data Analyst in the Transport Analytics team 
 - Systemes Analysis
 - Functional Programming
 - Discrete Event Simulation
+- Scheduling
+- Decision Support
 
 ## Programming Langauges
 - Python
